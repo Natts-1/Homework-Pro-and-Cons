@@ -30,3 +30,12 @@ li {
 body {
   background-image: url("background.jpeg");
 }
+class1 {
+  text-decoration: line-through;
+}
+class2 {
+  text-shadow: 4px 4px #ff0000;
+}
+TheThird {
+  transform: rotate(180deg);
+}
