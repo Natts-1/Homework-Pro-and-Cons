@@ -39,3 +39,9 @@ class2 {
 TheThird {
   transform: rotate(180deg);
 }
+th {
+  font-style: italic;
+}
+td{
+  font-style: oblique;
+}
