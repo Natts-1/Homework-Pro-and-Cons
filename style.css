@@ -28,7 +28,7 @@ li {
   text-shadow: 2px 2px lightgray;
 }
 body {
-  background-image: url("background.jpeg");
+  background-image: url(background.jpeg);
 }
 .class-1 {
   text-decoration: line-through;
